@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ebus2usb")(type "KiCad")(uri "${KIPRJMOD}/ebus2usb.kicad_sym")(options "")(descr ""))
+)
