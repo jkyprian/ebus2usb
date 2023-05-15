@@ -9,11 +9,11 @@ It has been designed to fit into an [CNMB/1/2](https://www.camdenboss.com/camden
 
 ## Schematic
 
-![Schematic](./ebus2usb-schematic-v0.8.png)
+![Schematic](./ebus2usb-sch.png)
 
 ## PCB Layout
 
-![PCB Layout](./ebus2usb-pcb-v0.8.png)
+![PCB Layout](./ebus2usb-pcb.png)
 
 When ordering at JLCPCB, remove the mouse bites and cut the boards yourself. Otherwise JLCPCB will charge you for two designs.
 
@@ -35,11 +35,11 @@ When ordering at JLCPCB, remove the mouse bites and cut the boards yourself. Oth
 |Q1, Q2|SOT-23-3|2|BC817-40, S9013J3|C52801, C6749
 |R1|R0805|1|0R|C17477
 |R2, R3, R4, R9|R0805|4|100K|C149504
-|R5|R0805|1|1K5|C4310
+|R5|R0805|1|4K7|C17673
 |R6|R0805|1|300K|C17616
 |R7|R0805|1|51K|C17737
 |R8|R0805|1|2M|C26112
 |R10, R11|R0805|2|22K|C17560
-|U1|SO08|1|TS3702, TLC3702|C283319, C353003
+|U1|SO08|1|TSX3702|C2970396
 |U2|SO08|1|ADuM1201, π122U31|C9669, C471590
 |U3|SO08|1|CH340N, CH330N|C2977777
