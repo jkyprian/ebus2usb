@@ -1,9 +1,9 @@
-# ebus2usb - 2TE DIN Rail eBUS to USB Type-C Interface
+# ebus2usb - 1TE DIN Rail eBUS to USB Type-C Interface
 
 eBUS is a serial 2-wire serial data-bus, often used in heating, solar energy, and other building automation systems. This project provides an interface to access an eBUS via USB.
 It uses a series transistor regulator circuit with a low IZT zener diode to extract the operating voltage from the eBUS, an ADuM1201 for the galvanic isolation, and a CH340N for the UART to USB conversion.
 Power consumption on the eBUS side is between 620uA (eBUS idle low/8V) and 920uA (eBUS idle high/24V), making the interface qualify as a class 0 device with respect to the eBUS specification.
-It has been designed to fit into an [CNMB/1/2](https://www.camdenboss.com/camden-boss/cnmb12-din-rail-module-box%2c-polycarbonate-enclosure%2c-industrial-iot-electronics-housing/c-23/p-18541) 2TE DIN rail enclosure by CAMDENBOSS. The interface is intended to be used with [ebusd](https://github.com/john30/ebusd/) and can be used as a replacement for an [eBUS Adapter v2](https://adapter.ebusd.eu/v2/).
+It has been designed to fit into an [CNMB/1/2](https://www.camdenboss.com/camden-boss/cnmb12-din-rail-module-box%2c-polycarbonate-enclosure%2c-industrial-iot-electronics-housing/c-23/p-18541) 1TE DIN rail enclosure by CAMDENBOSS. The interface is intended to be used with [ebusd](https://github.com/john30/ebusd/) and can be used as a replacement for an [eBUS Adapter v2](https://adapter.ebusd.eu/v2/).
 
 ![Images](ebus2usb-img-v0.9.jpg)
 
