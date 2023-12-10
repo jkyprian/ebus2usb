@@ -53,8 +53,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 1943f8fe-93f1-4836-a91f-6696a5005f8b))
   (fp_line (start 6.08 10) (end 6.08 -2)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp adcb6dd9-9c97-4b1f-8a86-03676c5f7457))
-  (pad "1" thru_hole roundrect (at -2.54 0) (size 2.08 3) (drill 1.4) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.120192) (tstamp 214837bf-0d06-4f45-9578-b00d1818d030))
-  (pad "2" thru_hole oval (at 2.54 0) (size 2.08 3) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 67872cf3-cc6b-4096-a0be-250e1bfe6e6e))
+  (pad "1" thru_hole roundrect (at -2.54 0) (size 2.08 3) (drill 1.35) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.1201923077) (tstamp 214837bf-0d06-4f45-9578-b00d1818d030))
+  (pad "2" thru_hole oval (at 2.54 0) (size 2.08 3) (drill 1.35) (layers "*.Cu" "*.Mask") (tstamp 67872cf3-cc6b-4096-a0be-250e1bfe6e6e))
   (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal.wrl"
     (offset (xyz -2.54 0 0))
     (scale (xyz 1 1 1))

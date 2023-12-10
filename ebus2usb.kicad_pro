@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15239999999999998,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.8,
-          "width": 0.9
+          "drill": 1.016,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.2032,
         "silk_text_italic": false,
@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.125
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -136,7 +136,7 @@
         "min_via_diameter": 0.35,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -181,6 +181,7 @@
       ],
       "track_widths": [
         0.0,
+        0.125,
         0.15,
         0.2,
         0.25,
@@ -492,6 +493,10 @@
       {
         "netclass": "Power",
         "pattern": "GND2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/3V3"
       }
     ]
   },

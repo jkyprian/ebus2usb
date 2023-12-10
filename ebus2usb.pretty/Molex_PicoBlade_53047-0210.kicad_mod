@@ -38,8 +38,8 @@
     (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 9a0fa0c8-cf98-4f5e-bb2e-7df0e7b8ea06))
   (fp_rect (start 2.235 2.16) (end -2.235 -1.26)
     (stroke (width 0.1524) (type solid)) (fill none) (layer "F.Fab") (tstamp f448ea96-4ead-48d1-bf36-6d8983b11867))
-  (pad "1" thru_hole oval (at 0.625 0 180) (size 0.8 1.2) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp c8acbd34-b83d-41e0-9ccd-45e7e93d3466))
-  (pad "2" thru_hole oval (at -0.625 0 180) (size 0.8 1.2) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp b90d2eb0-9ef0-4a0b-9408-534416448212))
+  (pad "1" thru_hole oval (at 0.625 0 180) (size 0.8 1.2) (drill 0.465) (layers "*.Cu" "*.Mask") (tstamp c8acbd34-b83d-41e0-9ccd-45e7e93d3466))
+  (pad "2" thru_hole oval (at -0.625 0 180) (size 0.8 1.2) (drill 0.465) (layers "*.Cu" "*.Mask") (tstamp b90d2eb0-9ef0-4a0b-9408-534416448212))
   (model "${KIPRJMOD}/ebus2usb.3dshapes/Molex_PicoBlade_530470210.stp"
     (offset (xyz 0 1.15 5.2))
     (scale (xyz 1 1 1))
