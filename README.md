@@ -29,10 +29,11 @@ When ordering at JLCPCB, remove the mouse bites and cut the boards yourself. Oth
 |D5|SOD-123|1|24V/1W, KDZVTR24B, MM1W24|C209605, C438336
 |D6|SOD-123|1|7V5/1W, KDZVTR7.5B, MM1W7V5|C209594, C382950
 |D7|LED_0603|1|LED|C72043
-|D8, D9, D10|D3.0mm|3||[CHANZON 3mm diffused LED](https://www.aliexpress.com/item/1936229691.html)
+|D8, D9, D10|D3.0mm|3|3mm LED|[CHANZON 3mm diffused LED](https://www.aliexpress.com/item/1936229691.html)
 |J1|MSTBA_2,5_2-G-5,08|1|MSTBA 2,5/2-G-5,08|C3697
 |J2, J6|Molex_PicoBlade_53047-0210|2|Molex 53047-0210|C114130
 |J3, J7|Molex_PicoBlade_53047-0410|2|Molex 53047-0410|C504989
+|J4|TC2030-NL|1|Tag-Connect 6-Pin \"No Legs\" TC2030-NL Plug-of-Nails|[TC2030-CTX-NL-STDC14](https://www.tag-connect.com/product/tc2030-ctx-nl-stdc14-for-use-with-stm32-processors-with-stlink-v3)
 |J5|HRO_TYPE-C-31-M-12|1|HRO TYPE-C-31-M-12|C165948
 |J8|PinHeader_1x02_P1.27mm|1|Harwin M50-3530242|C2881948
 |Q1, Q2|SOT-23-3|2|BC817-40, S9013J3|C52801, C6749

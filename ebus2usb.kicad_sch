@@ -2658,7 +2658,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0990928a-bd4b-4bea-87ce-491aa1298c82)
   )
-  (text "[Alternatives] CH340N: CH330N\n" (at 318.77 201.93 0)
+  (text "Tag-Connect \n6-Pin \"No Legs\"\nTC2030-NL \nPlug-of-Nails\n"
+    (at 208.28 193.04 0)
     (effects (font (size 1.27 1.27) (color 132 132 132 1)) (justify left bottom))
     (uuid 0ade46da-46c4-4cff-ade6-bd5483947f02)
   )
